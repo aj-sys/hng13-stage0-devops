@@ -3,3 +3,4 @@
 **Slack Username:** @A.J  
 **Project Description:** This project deploys a simple NGINX web server using cloud infrastructure for the HNG Stage 0 DevOps Challenge.  
 **Server IP/Domain:** (add after deployment)
+**Server IP/Domain:** http://<your-server-ip>/
